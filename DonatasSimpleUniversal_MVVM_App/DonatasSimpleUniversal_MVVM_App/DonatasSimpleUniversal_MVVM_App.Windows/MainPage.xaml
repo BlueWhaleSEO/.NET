@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="DonatasSimpleUniversal_MVVM_App.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DonatasSimpleUniversal_MVVM_App"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" RequestedTheme="Light">
+        <TextBox HorizontalAlignment="Left" Margin="604,315,0,0" TextWrapping="Wrap" Text="{Binding Path=Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" PlaceholderText="Add name..." Width="158"/>
+        <TextBox HorizontalAlignment="Left" Margin="604,367,0,0" TextWrapping="Wrap" Text="{Binding Path=Gender}" VerticalAlignment="Top" IsReadOnly="True" Width="158"/>
+        <Button Content="Get person's gender" Command="{Binding UpdateGender}" HorizontalAlignment="Left" Margin="601,420,0,0" VerticalAlignment="Top" />
+    </Grid>
+</Page>
