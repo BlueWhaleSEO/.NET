@@ -1,4 +1,4 @@
-A simple [Windows Universal App](https://dev.windows.com/en-us/develop/build-apps-shared-code "Building Windows and Windows Phone apps with shared code") showing the usage of Model - View - ViewModel pattern. 
+A simple [Windows Universal App](https://dev.windows.com/en-us/develop/build-apps-shared-code "Building Windows and Windows Phone apps with shared code") showing the usage of [Model - View - ViewModel pattern](https://msdn.microsoft.com/en-us/library/windows/apps/jj883732.aspx "Use the Model-View-ViewModel (MVVM) pattern"). 
 
 ### VIEW: 
 
