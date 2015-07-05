@@ -2,9 +2,7 @@ A simple Windows Universal App showing the usage of Model - View - ViewModel pat
 
 ### VIEW: 
 
-\DonatasSimpleUniversal_MVVM_App.**Windows**\MainPage.xaml 
-and
-DonatasSimpleUniversal_MVVM_App.**WindowsPhone**\MainPage.xaml
+\DonatasSimpleUniversal_MVVM_App.**Windows**\`MainPage.xaml` and DonatasSimpleUniversal_MVVM_App.**WindowsPhone**\MainPage.xaml
 
 ### VIEW-MODEL:
 
