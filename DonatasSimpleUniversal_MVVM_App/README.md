@@ -1,15 +1,15 @@
 A simple Windows Universal App showing the usage of Model - View - ViewModel pattern. 
 
-VIEW: 
+# VIEW: 
 
-\DonatasSimpleUniversal_MVVM_App.Windows\MainPage.xaml 
+\DonatasSimpleUniversal_MVVM_App.**Windows**\MainPage.xaml 
 and
 DonatasSimpleUniversal_MVVM_App.WindowsPhone\MainPage.xaml
 
-VIEW-MODEL:
+# VIEW-MODEL:
 
 \DonatasSimpleUniversal_MVVM_App\DonatasSimpleUniversal_MVVM_App.Shared\MVVMFramework\ViewModels\PersonViewModel.cs
 
-MODEL:
+# MODEL:
 
 \DonatasSimpleUniversal_MVVM_App\DonatasSimpleUniversal_MVVM_App.Shared\MVVMFramework\Models\Person.cs
