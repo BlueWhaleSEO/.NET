@@ -11,3 +11,5 @@ A simple [Windows Universal App](https://dev.windows.com/en-us/develop/build-app
 #### MODEL:
 
 [\DonatasSimpleUniversal_MVVM_App\DonatasSimpleUniversal_MVVM_App.**Shared**\MVVMFramework\Models\Person.cs](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.Shared/MVVMFramework/Models/Person.cs)
+
+[API used in the project](https://www.mashape.com/montanaflynn/gender-guesser#!documentation "Guess whether a first name is of male or female gender in the USA.") 
