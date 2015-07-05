@@ -2,12 +2,12 @@ A simple Windows Universal App showing the usage of Model - View - ViewModel pat
 
 ### VIEW: 
 
-[\DonatasSimpleUniversal_MVVM_App.**Windows**\MainPage.xaml](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.Windows/MainPage.xaml) and DonatasSimpleUniversal_MVVM_App.**WindowsPhone**\MainPage.xaml
+[\DonatasSimpleUniversal_MVVM_App.**Windows**\MainPage.xaml](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.Windows/MainPage.xaml) and [DonatasSimpleUniversal_MVVM_App.**WindowsPhone**\MainPage.xaml](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.WindowsPhone/MainPage.xaml)
 
 ### VIEW-MODEL:
 
-\DonatasSimpleUniversal_MVVM_App\DonatasSimpleUniversal_MVVM_App.**Shared**\MVVMFramework\ViewModels\PersonViewModel.cs
+[\DonatasSimpleUniversal_MVVM_App\DonatasSimpleUniversal_MVVM_App.**Shared**\MVVMFramework\ViewModels\PersonViewModel.cs](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.Shared/MVVMFramework/ViewModels/PersonViewModel.cs)
 
 ### MODEL:
 
-\DonatasSimpleUniversal_MVVM_App\DonatasSimpleUniversal_MVVM_App.**Shared**\MVVMFramework\Models\Person.cs
+[\DonatasSimpleUniversal_MVVM_App\DonatasSimpleUniversal_MVVM_App.**Shared**\MVVMFramework\Models\Person.cs](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.Shared/MVVMFramework/Models/Person.cs)
