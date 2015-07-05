@@ -2,7 +2,7 @@ A simple [Windows Universal App](https://dev.windows.com/en-us/develop/build-app
 
 #### VIEW: 
 
-[\DonatasSimpleUniversal_MVVM_App.**Windows**\MainPage.xaml](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.Windows/MainPage.xaml) and [DonatasSimpleUniversal_MVVM_App.**WindowsPhone**\MainPage.xaml](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.WindowsPhone/MainPage.xaml)
+[\DonatasSimpleUniversal_MVVM_App.**Windows**\_MainPage.xaml_](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.Windows/MainPage.xaml) and [DonatasSimpleUniversal_MVVM_App.**WindowsPhone**\MainPage.xaml](https://github.com/BlueWhaleSEO/.NET/blob/master/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App/DonatasSimpleUniversal_MVVM_App.WindowsPhone/MainPage.xaml)
 
 #### VIEW-MODEL:
 
